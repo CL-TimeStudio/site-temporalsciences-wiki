@@ -4,3 +4,8 @@ theme: minima
 markdown: kramdown
 url: "https://www.temporalsciences.wiki"
 baseurl: ""   # leave empty if using a custom domain or user site
+
+header_pages:
+  - index.md
+  - documents.md
+  - links.md
