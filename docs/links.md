@@ -19,7 +19,17 @@ This page collects the main public entry points into Temporal Sciences and the T
 
 ---
 
-## 2. Media & Channels
+## 2. Research Identity & Document Repositories
+
+- **ORCID - Colin Lynch**  
+  🔗 <https://orcid.org/0009-0006-1473-6942>
+
+- **Zenodo Research Archive**  
+  🔗 <https://zenodo.org/search?q=Colin%20Lynch&l=list&p=1&s=10&sort=bestmatch>
+
+---
+
+## 3. Media & Channels
 
 - **Temporal Sciences YouTube channel**  
   🔗 <https://www.youtube.com/@ColinLynchWorld>
@@ -29,11 +39,9 @@ This page collects the main public entry points into Temporal Sciences and the T
 
 ---
 
-## 3. Books & Other Formats
+## 4. Books & Other Formats
 
 - **Temporal Framework of the Universe (Amazon ebook)(do not pay money for it - all content is free on Zenodo)**  
   🔗 <https://www.amazon.com/dp/B0DT2V9Z4F>
 
 ---
-
-New public TS or TSF links can be added here as they come online.
