@@ -45,3 +45,5 @@ This page collects the main public entry points into Temporal Sciences and the T
   🔗 <https://www.amazon.com/dp/B0DT2V9Z4F>
 
 ---
+
+# End of Document
