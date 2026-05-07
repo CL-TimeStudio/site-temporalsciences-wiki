@@ -12,7 +12,7 @@ This page collects the main public entry points into Temporal Sciences and the T
 ## 1. Official Sites
 
 - **Temporal Sciences Wiki (this site)**  
-  🔗 <https://www.temporalsciences.wiki>
+  🔗 <https://temporalsciences.wiki>
 
 - **Temporal Sciences Foundation (TSF)**  
   🔗 <https://temporalsciencesfoundation.org>
@@ -32,7 +32,7 @@ This page collects the main public entry points into Temporal Sciences and the T
 ## 3. Media & Channels
 
 - **Temporal Sciences YouTube channel**  
-  🔗 <https://www.youtube.com/@ColinLynchWorld>
+  🔗 <https://youtube.com/@ColinLynchWorld>
 
 - **ColinLynch.world**  
   🔗 <https://colinlynch.world>
@@ -42,7 +42,7 @@ This page collects the main public entry points into Temporal Sciences and the T
 ## 4. Books & Other Formats
 
 - **Temporal Framework of the Universe (Amazon ebook)(do not pay money for it - all content is free on Zenodo)**  
-  🔗 <https://www.amazon.com/dp/B0DT2V9Z4F>
+  🔗 <https://amazon.com/dp/B0DT2V9Z4F>
 
 ---
 
