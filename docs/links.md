@@ -25,7 +25,7 @@ This page collects the main public entry points into Temporal Sciences and the T
   🔗 <https://orcid.org/0009-0006-1473-6942>
 
 - **Zenodo Research Archive**  
-  🔗 <https://zenodo.org/search?q=Colin%20Lynch&l=list&p=1&s=10&sort=bestmatch>
+  🔗 <https://zenodo.org/search?q=creators.name%3A%20Colin%20Lynch&l=list&p=1&s=20&sort=bestmatch>
 
 ---
 
