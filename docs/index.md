@@ -95,7 +95,3 @@ Roadmap:
 **Mission:** Empower independent researchers to refine work with scientific rigor, while giving professionals a faster, clearer way to stress-test ideas before decade-long validation cycles.
 
 **MILEVA is a proving ground where coherence, clarity, and consequence define success.**
-
----
-
-# End of Document
