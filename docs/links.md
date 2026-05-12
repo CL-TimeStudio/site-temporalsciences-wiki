@@ -43,7 +43,3 @@ This page collects the main public entry points into Temporal Sciences and the T
 
 - **Temporal Framework of the Universe (Amazon ebook)(do not pay money for it - all content is free on Zenodo)**  
   🔗 <https://amazon.com/dp/B0DT2V9Z4F>
-
----
-
-# End of Document
