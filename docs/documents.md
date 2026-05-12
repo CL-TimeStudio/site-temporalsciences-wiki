@@ -82,17 +82,3 @@ This document reexamines the conventional understanding of time as a universal c
 The work explores mathematical relationships linking time, distance, mass, and energy, testing these ideas against the estimated age of the universe. Though untested and unreviewed, this exploration aims to spark discussion and provide fresh perspectives on the interplay of fundamental forces and constants.
 
 🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.14560147>
-
----
-
-# End of Document
-
-
-
-
-
-
-
-
-
-
