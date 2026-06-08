@@ -11,7 +11,7 @@ The Temporal Sciences Wiki serves as the open-access hub for the work, documents
 This site consolidates publicly available descriptions, frameworks, and references related to Temporal Sciences — a time-centric approach to understanding physical and biological systems.
 
 This wiki is a companion to the TSF website and the public TS document library.  
-All project descriptions below are reproduced *exactly* as publicly shared.
+Project descriptions below are maintained as public-facing summaries of active Temporal Sciences Foundation work.
 
 ---
 
@@ -32,6 +32,15 @@ Key milestones to date:
 - Achieved ~70 % theoretical readiness; alpha-simulation and experimental fit pipeline scheduled for 2025–26
 
 **Outcome:** Open-source, testable model that unifies physics across scales.
+
+---
+
+## **➤ Temporal Mechanics**
+**Associated with Temporal Sciences Foundation**
+
+Temporal Mechanics is an emerging branch of Temporal Sciences focused on the mechanics of temporal continuity, motion, measurement, energy exchange, causal structure, and physical frames. It is being developed as the formal mechanics layer beneath broader TS applications, including Temporal Cosmology, Temporal Electrodynamics, and Temporal Biology.
+
+**Status:** Foundational branch under development. Public materials are planned after further internal consolidation.
 
 ---
 
