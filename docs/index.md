@@ -5,7 +5,7 @@ title: Temporal Sciences Wiki
 
 # Temporal Sciences Wiki
 
-The Temporal Sciences Wiki serves as the open-access hub for the work, documents, and research projects associated with the **Temporal Sciences Foundation (TSF)**:
+The Temporal Sciences Wiki serves as the open-access hub for the work, documents, and research projects associated with the **Temporal Sciences Foundation (TSF)**:  
 🔗 <https://temporalsciencesfoundation.org/>
 
 This site consolidates publicly available descriptions, frameworks, and references related to Temporal Sciences — a time-centric approach to understanding physical and biological systems.
