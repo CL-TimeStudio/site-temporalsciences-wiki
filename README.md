@@ -94,5 +94,3 @@ Roadmap:
 ---
 
 # End of Document
-
-This wiki will expand over time as additional *public* TS documents and references become available.
